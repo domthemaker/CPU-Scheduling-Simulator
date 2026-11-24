@@ -46,6 +46,19 @@ No additional Python packages are required.
 - Malubago, John Dominic
 - Marquinez, Erick Angelo
 
+## References
+
+- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018).
+  Operating System Concepts (10th ed.). Wiley.
+
+- Python Software Foundation. Python Documentation.
+  https://docs.python.org/3/
+
+- Python Software Foundation. Collections — Container Datatypes.
+  https://docs.python.org/3/library/collections.html
+
+- PT 101 – Platform Technologies course materials.
+
 ## Academic Information
 
 **Course:** PT 101 – Platform Technologies  
